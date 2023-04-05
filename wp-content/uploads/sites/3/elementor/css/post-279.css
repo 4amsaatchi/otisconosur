@@ -1,0 +1,43 @@
+.elementor-279 .elementor-element.elementor-element-911fa7b:not(.elementor-motion-effects-element-type-background), .elementor-279 .elementor-element.elementor-element-911fa7b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://138.197.102.237/otisconosur/chile/wp-content/uploads/sites/3/2023/04/Nos-merecemos-ciudades-mas-sostenibles-y-habitables-Otis-Colombia.png");background-position:center center;background-repeat:no-repeat;background-size:100% auto;}.elementor-279 .elementor-element.elementor-element-911fa7b > .elementor-background-overlay{background-color:transparent;background-image:linear-gradient(270deg, #FFFFFF 0%, #0F213EC9 0%);opacity:0.59;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-279 .elementor-element.elementor-element-911fa7b{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:100px 0px 100px 0px;}.elementor-279 .elementor-element.elementor-element-80d5e63 .elementor-heading-title{color:#FFFFFF;font-family:"Grifo M Bold", Sans-serif;font-size:70px;font-weight:600;}.elementor-279 .elementor-element.elementor-element-59575fc{--divider-border-style:solid;--divider-color:#FB4C6A;--divider-border-width:10px;}.elementor-279 .elementor-element.elementor-element-59575fc .elementor-divider-separator{width:58px;margin:0 auto;margin-left:0;}.elementor-279 .elementor-element.elementor-element-59575fc .elementor-divider{text-align:left;padding-top:15px;padding-bottom:15px;}.elementor-279 .elementor-element.elementor-element-59575fc > .elementor-widget-container{margin:10px 0px -20px 0px;padding:0px 0px 0px 0px;}.elementor-279 .elementor-element.elementor-element-bf8142c .elementor-heading-title{color:#FFFFFF;font-family:"Grifol - Bold", Sans-serif;font-size:30px;font-weight:600;}.elementor-279 .elementor-element.elementor-element-d6dbd46{color:#FFFFFF;font-family:"Avenir LT STD", Sans-serif;font-size:20px;font-weight:100;}.elementor-279 .elementor-element.elementor-element-d6dbd46 > .elementor-widget-container{margin:20px 0px 0px 0px;}.elementor-279 .elementor-element.elementor-element-3ad803d{margin-top:40px;margin-bottom:40px;}.elementor-279 .elementor-element.elementor-element-09abe6c{text-align:center;}.elementor-279 .elementor-element.elementor-element-09abe6c .elementor-heading-title{color:#0F213E;font-family:"Grifo M Bold", Sans-serif;font-weight:600;}.elementor-279 .elementor-element.elementor-element-97c4079{--divider-border-style:solid;--divider-color:#FB4C6A;--divider-border-width:10px;}.elementor-279 .elementor-element.elementor-element-97c4079 .elementor-divider-separator{width:58px;margin:0 auto;margin-center:0;}.elementor-279 .elementor-element.elementor-element-97c4079 .elementor-divider{text-align:center;padding-top:15px;padding-bottom:15px;}.elementor-279 .elementor-element.elementor-element-97c4079 > .elementor-widget-container{margin:-20px 0px -20px 0px;padding:0px 0px 0px 0px;}.elementor-279 .elementor-element.elementor-element-6cc2cc4{margin-top:0px;margin-bottom:50px;}.elementor-279 .elementor-element.elementor-element-1f7d92f .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.66 * 100% );}.elementor-279 .elementor-element.elementor-element-1f7d92f:after{content:"0.66";}.elementor-279 .elementor-element.elementor-element-1f7d92f .elementor-post__thumbnail__link{width:100%;}.elementor-279 .elementor-element.elementor-element-1f7d92f{--grid-column-gap:30px;--grid-row-gap:35px;}.elementor-279 .elementor-element.elementor-element-1f7d92f.elementor-posts--thumbnail-left .elementor-post__thumbnail__link{margin-right:20px;}.elementor-279 .elementor-element.elementor-element-1f7d92f.elementor-posts--thumbnail-right .elementor-post__thumbnail__link{margin-left:20px;}.elementor-279 .elementor-element.elementor-element-1f7d92f.elementor-posts--thumbnail-top .elementor-post__thumbnail__link{margin-bottom:20px;}.elementor-279 .elementor-element.elementor-element-1f7d92f .elementor-post__title{margin-bottom:40px;}.elementor-279 .elementor-element.elementor-element-1f7d92f .elementor-post__read-more{color:#0C3498;}.elementor-279 .elementor-element.elementor-element-1f7d92f a.elementor-post__read-more{font-family:"Avenir LT STD", Sans-serif;font-size:16px;font-weight:700;}@media(max-width:767px){.elementor-279 .elementor-element.elementor-element-1f7d92f .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% );}.elementor-279 .elementor-element.elementor-element-1f7d92f:after{content:"0.5";}.elementor-279 .elementor-element.elementor-element-1f7d92f .elementor-post__thumbnail__link{width:100%;}}/* Start custom CSS for posts, class: .elementor-element-1f7d92f */.elementor-279 .elementor-element.elementor-element-1f7d92f .elementor-post__title {
+    position: relative;
+}
+
+.elementor-279 .elementor-element.elementor-element-1f7d92f .elementor-post__title:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 60px;
+    height: 5px;
+    width: 30px;
+    border-top: 7px solid #FB4C6A;
+    z-index: -1;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Grifo M Bold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://138.197.102.237/otisconosur/chile/wp-content/uploads/sites/3/2023/04/GrifoM-Bold.woff') format('woff'),
+		url('http://138.197.102.237/otisconosur/chile/wp-content/uploads/sites/3/2023/04/GrifoM-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Grifol &#8211; Bold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://138.197.102.237/otisconosur/chile/wp-content/uploads/sites/3/2023/04/GrifoL-Bold.woff') format('woff'),
+		url('http://138.197.102.237/otisconosur/chile/wp-content/uploads/sites/3/2023/04/GrifoL-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Avenir LT STD';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://138.197.102.237/otisconosur/chile/wp-content/uploads/sites/3/2023/04/AvenirLTStd-Book.woff') format('woff'),
+		url('http://138.197.102.237/otisconosur/chile/wp-content/uploads/sites/3/2023/04/AvenirLTStd-Book.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
